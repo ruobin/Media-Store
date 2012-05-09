@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/20/trunk/MediaStore/war/WEB-INF/lib
+END
+appengine-api-1.0-sdk-1.6.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/35/trunk/MediaStore/war/WEB-INF/lib/appengine-api-1.0-sdk-1.6.3.jar
+END
+appengine-api-labs-1.6.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/35/trunk/MediaStore/war/WEB-INF/lib/appengine-api-labs-1.6.3.jar
+END
+appengine-jsr107cache-1.6.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/35/trunk/MediaStore/war/WEB-INF/lib/appengine-jsr107cache-1.6.3.jar
+END
